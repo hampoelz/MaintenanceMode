@@ -33,7 +33,7 @@ A maintenance mode plugin for Minecraft Servers
 	- `/maintenance reload`
 
 ## Links:
-- Sites: [>> GitLab <<](https://gitlab.com/hampoelz/MaintenanceMode)
-- Support: [>> GitLab <<](https://gitlab.com/hampoelz/MaintenanceMode/issues)
-- Releases: [>> GitLab <<](https://gitlab.com/hampoelz/MaintenanceMode/tags)
-- License: [>> MIT License <<](https://gitlab.com/hampoelz/MaintenanceMode/blob/master/LICENSE)
+- Sites: [>> GitHub <<](https://github.com/hampoelz/MaintenanceMode)
+- Support: [>> GitHub <<](https://github.com/hampoelz/MaintenanceMode/issues)
+- Releases: [>> GitHub <<](https://github.com/hampoelz/MaintenanceMode/releases)
+- License: [>> MIT License <<](https://github.com/hampoelz/MaintenanceMode/blob/master/LICENSE)
